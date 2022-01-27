@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.theoneandtheonly">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.TheOneAndTheOnlyApp">
+
+        <activity
+            android:name=".activities.DetailedDailyMealActivity"
+            android:exported="true" />
+        <activity
+            android:name=".Main4Activity"
+            android:exported="true"
+            android:label="@string/title_activity_main4"
+            android:theme="@style/Theme.TheOneAndTheOnlyApp.NoActionBar" />
+        <activity
+            android:name=".Main3Activity"
+            android:exported="true"
+            android:label="@string/title_activity_main3"
+            android:theme="@style/Theme.TheOneAndTheOnlyApp.NoActionBar" />
+        <activity
+            android:name=".MainActivity3"
+            android:exported="true"
+            android:label="@string/title_activity_main3"
+            android:theme="@style/Theme.TheOneAndTheOnlyApp.NoActionBar" />
+        <activity
+            android:name=".MainActivity2"
+            android:exported="true"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/Theme.TheOneAndTheOnlyApp.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.RegistrationActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.LoginActivity"
+            android:exported="true" />
+        <activity
+            android:name=".activities.WelcomeActivity"
+            android:exported="true">
+
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            tools:ignore="DuplicateActivity" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

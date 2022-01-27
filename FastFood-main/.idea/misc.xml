@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/theoneandtheonlyapp/app/src/main/res/drawable/btn_bg_design.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/theoneandtheonlyapp/app/src/main/res/drawable/foreground_design.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/theoneandtheonlyapp/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/theoneandtheonlyapp/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/theoneandtheonlyapp/app/src/main/res/layout/activity_registration.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/theoneandtheonlyapp/app/src/main/res/layout/activity_welcome.xml" value="0.2" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/theoneandtheonlyapp/app/src/main/res/layout/fragment_blank.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/theoneandtheonlyapp/app/src/main/res/layout/fragment_gallery.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/theoneandtheonlyapp/app/src/main/res/layout/fragment_gallery2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/theoneandtheonlyapp/app/src/main/res/layout/fragment_item_list.xml" value="0.10960144927536232" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/theoneandtheonlyapp/app/src/main/res/layout/galleryviewmodel_fragment.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/theoneandtheonlyapp/app/src/main/res/layout/galleryviewmodell_fragment.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/theoneandtheonlyapp/app/src/main/res/layout/galleryy_fragment.xml" value="0.1" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/theoneandtheonlyapp/app/src/main/res/layout/main_fragment.xml" value="0.10131712259371833" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/theoneandtheonlyapp/app/src/main/res/layout/main_fragment2.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/theoneandtheonlyapp/app/src/main/res/layout/sample_my_view.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/drawable/bottom_sheet_bg.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/activity_detailed_daily_meal.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/activity_detailed_daily_meal2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/activity_welcome.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/daily_meal_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/detailed_daily_meal.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/detailed_daily_meal_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/fragment_favourite.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/fragment_first.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/fragment_home.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/fragment_my_cart.xml" value="0.2" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/fragment_third.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/home_horizontal_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/home_vertical_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/mycart_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/nav_header_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/drawable/change_bg.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/drawable/default_bg.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/drawable/home_vertical_item.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/drawable/ic_baseline_access_time_24.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/drawable/ic_baseline_all_inclusive_24.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/drawable/ic_baseline_shopping_cart_24.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/drawable/round_bg.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/drawable/search_bg.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/drawable/side_nav_bar.xml" value="0.20462962962962963" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/drawable/ss.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/layout/activity_login.xml" value="0.10131712259371833" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/layout/activity_registration.xml" value="0.10131712259371833" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/layout/app_bar_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/layout/fragment_favourite.xml" value="0.10131712259371833" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/layout/fragment_gallery.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/layout/fragment_home.xml" value="0.12" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/layout/fragment_my_cart.xml" value="0.10131712259371833" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/layout/home_horizontal_item.xml" value="0.9" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/layout/home_vertical_item.xml" value="0.1" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/layout/nav_header_main.xml" value="0.22" />
+        <entry key="..\:/Users/hp/Desktop/projet/app/src/main/res/menu/activity_main_drawer.xml" value="0.2" />
+        <entry key="..\:/Users/ichra/Downloads/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/activity_detailed_daily_meal.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/ichra/Downloads/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/activity_login.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/ichra/Downloads/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/activity_main.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/ichra/Downloads/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/activity_main2.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/ichra/Downloads/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/bottom_sheet_layout.xml" value="0.176" />
+        <entry key="..\:/Users/ichra/Downloads/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/daily_meal_item.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/ichra/Downloads/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/detailed_daily_meal_item.xml" value="0.1" />
+        <entry key="..\:/Users/ichra/Downloads/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/fragment_daily_meal.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/ichra/Downloads/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/fragment_home.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/ichra/Downloads/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/fragment_my_cart.xml" value="0.2" />
+        <entry key="..\:/Users/ichra/Downloads/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/fragment_second.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/ichra/Downloads/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/fragment_third.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/ichra/Downloads/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/home_horizontal_item.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/ichra/Downloads/projet/app/src/main/res/drawable/daily_meal_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/ichra/Downloads/projet/app/src/main/res/layout/activity_detail_food.xml" value="0.22916666666666666" />
+        <entry key="..\:/Users/ichra/Downloads/projet/app/src/main/res/layout/activity_detailed_daily_meal.xml" value="0.1" />
+        <entry key="..\:/Users/ichra/Downloads/projet/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/Users/ichra/Downloads/projet/app/src/main/res/layout/app_bar_main.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/ichra/Downloads/projet/app/src/main/res/layout/bottom_item_layout.xml" value="0.23641304347826086" />
+        <entry key="..\:/Users/ichra/Downloads/projet/app/src/main/res/layout/daily_meal_item.xml" value="0.1" />
+        <entry key="..\:/Users/ichra/Downloads/projet/app/src/main/res/layout/detailed_daily_meal_item.xml" value="0.2427536231884058" />
+        <entry key="..\:/Users/ichra/Downloads/projet/app/src/main/res/layout/fragment_daily_meal.xml" value="0.1" />
+        <entry key="..\:/Users/ichra/Downloads/projet/app/src/main/res/layout/fragment_home.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/ichra/Downloads/projet/app/src/main/res/layout/fragment_my_cart.xml" value="0.13125" />
+        <entry key="..\:/Users/ichra/Downloads/projet/app/src/main/res/layout/home_horizontal_item.xml" value="0.23369565217391305" />
+        <entry key="..\:/Users/ichra/Downloads/projet/app/src/main/res/layout/home_vertical_item.xml" value="0.1" />
+        <entry key="..\:/Users/ichra/Downloads/projet/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/activity_hello.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/activity_login.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/activity_main.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/activity_main2.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/activity_registration.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/activity_welcome.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/app_bar_main.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/content_main.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/daily_meal_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/detailed_daily_meal_item.xml" value="0.176" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/fragment_daily_meal.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/fragment_first.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/fragment_home.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/fragment_my_cart.xml" value="0.264" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/fragment_second.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/fragment_third.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/home_horizontal_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/home_vertical_item.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/mycart_item.xml" value="0.176" />
+        <entry key="..\:/Users/ichra/FastFood/FastFood-main/app/src/main/res/layout/nav_header_main.xml" value="0.2128623188405797" />
+        <entry key="..\:/Users/ichra/aaaa/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.13229166666666667" />
+        <entry key="..\:/Users/ichra/aaaa/app/src/main/res/layout/activity_main.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/ichra/aaaa/app/src/main/res/layout/activity_main2.xml" value="0.1" />
+        <entry key="..\:/Users/ichra/aaaa/app/src/main/res/layout/fragment_daily_meal.xml" value="0.1" />
+        <entry key="..\:/Users/ichra/aaaa/app/src/main/res/layout/fragment_favourite.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/ichra/aaaa/app/src/main/res/layout/fragment_home.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/ichra/aaaa/app/src/main/res/layout/fragment_my_cart.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/ichra/aaaa/app/src/main/res/menu/activity_main_drawer.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/ichra/aaaa/app/src/main/res/menu/main3.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/ichra/aaaa/app/src/main/res/menu/main4.xml" value="0.11614583333333334" />
+        <entry key="..\:/Users/ichra/aaaa/app/src/main/res/menu/main_activity2.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/robotx/Downloads/aaaa-20211124T193609Z-001/aaaa-20211124T193609Z-001/aaaa/app/src/main/res/layout/activity_login.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
